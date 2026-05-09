@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0A0A0A" />
+  <rect x="0" y="88" width="512" height="110" fill="#F5C518" />
+  <rect x="0" y="198" width="512" height="110" fill="#D4380D" />
+  <rect x="0" y="308" width="512" height="110" fill="#0A0A0A" />
+  <text x="256" y="332" text-anchor="middle" font-family="Bebas Neue, sans-serif" font-size="228" fill="#F5C518">AI</text>
+  <circle cx="256" cy="256" r="228" fill="none" stroke="#F5C518" stroke-width="18" opacity="0.16" />
+</svg>
